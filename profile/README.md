@@ -57,22 +57,6 @@ To create a resonant, practical platform that helps developers advance their car
   - Developer swag and merchandise
   - Peer-to-peer marketplace
 
-## 🔧 Tech Stack
-
-### Frontend
-- React with TypeScript
-- Vite
-- Shadcn UI
-
-### Backend
-- Python (Data Science)
-- Node.js
-- SQLite / DuckDB
-- Supabase
-
-### Design
-- Figma
-
   # Dev Community Platform (DCP) 🚀
 
 [Previous sections remain the same...]
@@ -92,15 +76,13 @@ To create a resonant, practical platform that helps developers advance their car
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo.svg" alt="supabase" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" alt="supabase" width="40" height="40"/>
 </div>
 
 ### Design
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 </div>
-
-[Rest of the README remains the same...]
 
 ## 🔐 Security & Privacy
 
