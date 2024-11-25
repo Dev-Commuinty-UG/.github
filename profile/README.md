@@ -139,5 +139,5 @@ after initial production phase.
 ---
 
 <div align="center">
-<strong>DCP - Building stronger developer communities, one feature at a time.</strong> <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/flame-24.svg" width="20" height="20" align="center"/>
+<strong>DCP - An all in one home for devs to grow, learn and earn!</strong> <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/flame-24.svg" width="20" height="20" align="center"/>
 </div>
